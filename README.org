@@ -1,5 +1,7 @@
 #+title: Org LaTeX Preview TODOs
 
-> `org-latex-preview` has been merged into Org mode.  Please direct your issues or queries to the Org mailing list.  This repo will be archived.
+#+begin_quote
+org-latex-preview` has been merged into Org mode.  Please direct your issues or queries to the Org mailing list.  This repo will be archived.
+#+end_quote
 
-~~This is just so that Karthik and I can track what needs to be done prior to merging with [[https://github.com/tecosaur/org-latex-preview-todos/issues][issues]].~~
++This is just so that Karthik and I can track what needs to be done prior to merging with [[https://github.com/tecosaur/org-latex-preview-todos/issues][issues]].+
